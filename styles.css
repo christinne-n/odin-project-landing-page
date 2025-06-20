@@ -1,0 +1,21 @@
+body{
+    font-family: Roboto, sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    background: #1F2937;
+    color: white;
+}
+.logo{
+    font-weight: 900;
+    font-size: 24px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+}
